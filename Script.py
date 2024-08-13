@@ -1,21 +1,22 @@
 class script(object):
-    START_TXT = """<b><i>𝙷𝙴𝙻𝙾 {},
+    START_TXT = """<b><i>𝙷𝙴𝙻𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍</b></i>"""
     HELP_TXT = """<b>𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Mrz_bots>Creator</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Tony_Stark_75>Ƭᴏɴʏ Ꮪᴛᴀʀᴋ ⎊</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Tᴏɴʏ Sᴛᴀʀᴋ Is Oᴘᴇɴ Pʀᴏᴊᴇᴄᴛ. 
-- Sᴏᴜʀᴄᴇ  - https://github.com/Mrzbots/AutoFilterBot  
+- 𝖬𝖨𝖲𝖲 𝖬𝖨𝖭UΤ𝖤𝖲 〄 Is Oᴘᴇɴ Pʀᴏᴊᴇᴄᴛ. 
+- Sᴏᴜʀᴄᴇ  - <a href=https://t.me/+ymaC4fIVKvE4YzBl>Click Here</a>  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Mrz_bots>Creator</a>"""
+- <a href=https://t.me/Tony_Stark_75>Ƭᴏɴʏ Ꮪᴛᴀʀᴋ ⎊</a>
+- <a href=https://t.me/Spider_Man_02>Pᴇᴛᴇʀ Pᴀʀᴋᴇʀ 🕸️</a>"""
     TELEGRAPH = """Reply to any photo or video using by /telegraph that photo telegraph link you will get"""
     TOOLS = """TOOLS:
 
@@ -51,7 +52,7 @@ Example: <code> /image Tony stark </code>"""
 /font {your_text}
 
 ᴇɢ:- /font Hello """
-    STICKER = """ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ꜰɪɴᴅᴀɴy  ꜱᴛɪᴄᴋᴇʀꜱ ɪᴅ.
+    STICKER = """ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ꜰɪɴᴅ ᴀɴy  ꜱᴛɪᴄᴋᴇʀꜱ ɪᴅ.
 • ᴜꜱᴀɢᴇ :ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀ
  
 ⭕ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ
@@ -62,7 +63,7 @@ Commands and Usage:
 • /tts  : convert text to speech"""
     BUG_TXT = """Yᴏᴜ ᴄᴀɴ ʀᴇᴘᴏʀᴛ ᴇʀʀᴏʀs ᴀɴᴅ ʙᴜɢs ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ 
 ᴜsɪɴɢ ʙʏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ /bug """
-    FEED = """Iғ Yᴏᴜ Wᴀɴᴛ Aɴʏ Fᴇᴇᴅʙᴀᴄᴋ ᴏʀ Aɴʏ Fᴇᴄᴛᴜʀᴇs Aʙᴏᴜᴛ Tʜᴇ Bᴏᴛ, 
+    FEED = """Iғ Yᴏᴜ Wᴀɴᴛ Aɴʏ Fᴇᴇᴅʙᴀᴄᴋ ᴏʀ Aɴʏ Fᴇᴀᴛᴜʀᴇs Aʙᴏᴜᴛ Tʜᴇ Bᴏᴛ, 
 Jᴜsᴛ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ /feedback"""
     AI = """AI
 /openai {query}
@@ -73,7 +74,7 @@ Jᴜsᴛ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ /feedback"""
 /dare - [message]
 /joke - [message]
 """
-    ECHO = """ Tʜɪs ғᴇᴄᴛᴜʀᴇ ɪs ᴠᴇʀʏ ɪɴᴛᴇʀᴇsᴛɪɴɢ ᴀɴᴅ ғᴜɴɴʏ 
+    ECHO = """ Tʜɪs Fᴇᴀᴛᴜʀᴇ ɪs ᴠᴇʀʏ ɪɴᴛᴇʀᴇsᴛɪɴɢ ᴀɴᴅ ғᴜɴɴʏ 
 
  Tʜᴇ MEMBERS ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʀᴇᴘʟʏ ᴛᴇxᴛ
 
@@ -82,7 +83,7 @@ Jᴜsᴛ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ /feedback"""
  """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝖬𝖨𝖲𝖲 𝖬𝖨𝖭UΤ𝖤𝖲 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. bot should have admin privillage.
@@ -144,7 +145,9 @@ USAGE:
 /unpin :- ᴛᴏ ᴜɴᴩɪɴ ᴛʜᴇ ᴄᴜʀʀᴇᴇɴᴛ ᴩɪɴɴᴇᴅ ᴍᴇꜱꜱᴀɢ
 /unpin_all :- ᴛᴏ ᴜɴᴩɪɴ ᴛʜᴇ ᴄᴜʀʀᴇᴇɴᴛ ᴩɪɴɴᴇᴅ ᴀʟʟ ᴍᴇꜱꜱᴀɢ"""
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> {file_name}"""
+<b>{file_name}
+
+JOIN ➪ @MovieTimesTV</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
