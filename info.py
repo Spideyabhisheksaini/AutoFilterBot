@@ -42,7 +42,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "autofilter")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002185460160'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002057490725'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MovieTimesXDisc')
 UPDATE_CHANNEL = environ.get('UPDATE_CHANNEL', 'https://t.me/Avengers_Alliance') # add here your update channel link
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
