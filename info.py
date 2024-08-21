@@ -21,7 +21,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://graph.org/file/5e367c07056dd988e4359.jpg https://graph.org/file/0c730d1e3d6ab74bffa4d.jpg https://graph.org/file/29332067285aa3cc279c3.jpg https://graph.org/file/c2bc17f0bd7730bb20f41.jpg https://graph.org/file/da50db06cd4cf23f3fd30.jpg https://graph.org/file/f42bfa81022663784f921.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/271aa653b6b6e9dcdfd02.jpg https://graph.org/file/b61917d0c5509604de513.jpg https://graph.org/file/744e03bab800396621ca5.jpg https://graph.org/file/dec0fc9c9b75c9d94e51f.jpg https://graph.org/file/1c5529e5320112deaf8b6.jpg')).split()
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b860e8d8a234384950587.jpg")
 WVD = environ.get("WVD", "https://graph.org/file/4499072a9f9f4ec1b9f5f.mp4")
 NO_IMDB = environ.get("NO_IMDB", "https://graph.org/file/5c94a977943ac2b777d93.jpg")
@@ -44,7 +44,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002185460160'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MovieTimesXDisc')
-UPDATE_CHANNEL = environ.get('UPDATE_CHANNEL', 'https://t.me/MovieTimesTV') # add here your update channel link
+UPDATE_CHANNEL = environ.get('UPDATE_CHANNEL', 'https://t.me/Avengers_Alliance') # add here your update channel link
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
